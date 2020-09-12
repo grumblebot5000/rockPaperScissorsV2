@@ -1,0 +1,19 @@
+#headerThing {
+	background-color: coral;
+	text-align: center;
+	font-family: system;
+	padding-top: 16px;
+	font-size: 46px;
+}
+
+#playerRoundResult {
+	background-color: 'cyan';
+}
+
+#roundResults {
+	text-align: center;
+}
+
+#gameScore {
+	text-align: center;
+}
